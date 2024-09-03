@@ -1,12 +1,8 @@
 # Computer Scientist
 [Resume](https://docs.google.com/document/d/17Uba_uxj0fzT314dGlBxXnhw6kv3OsvqitN8xb3go4U/edit?usp=sharing)
-Image:
+
 ![img](25231.png)
 
-Link:
-[lnk](https://github.com/Alexanderman07)
-
-Image with lnk:
 [![img](25231.png)](https://github.com/Alexanderman07)
 
 ## About Me
