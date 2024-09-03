@@ -3,9 +3,6 @@
 
 [![img](/assets/img/25231.png)](https://github.com/Alexanderman07)
 
-<img src="/assets/img/25231.png" width="100" />(https://github.com/Alexanderman07)
-
-
 ## About Me
 Hey! Welcome to my portfolio website. My name is Alexander Manjarrez and I am a programmer from California committed to engineering innovative software through methodical problem solving and data analysis. I am goal oriented, a lifelong learner, and value feedback.
 
