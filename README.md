@@ -3,10 +3,7 @@
 
 [![img](assets/img/25231.png)](https://github.com/Alexanderman07)
 
-[GitHub](https://github.com/Alexanderman07)
-
-[LinkedIn](https://www.linkedin.com/in/alexander-manjarrez-70107016a/)
-
+[![linkin](assets/img/linkin.png)](https://www.linkedin.com/in/alexander-manjarrez-70107016a/)
 
 ## About Me
 Hey! Welcome to my portfolio website. My name is Alexander Manjarrez and I am a programmer from California committed to engineering innovative software through methodical problem solving and data analysis. I am goal oriented, a lifelong learner, and value feedback.
