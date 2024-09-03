@@ -3,7 +3,7 @@
 
 [![img](/assets/img/25231.png)](https://github.com/Alexanderman07)
 
-<img src="/assets/img/25231.png" width="100" />
+<img src="/assets/img/25231.png" width="100" />(https://github.com/Alexanderman07)
 
 
 ## About Me
