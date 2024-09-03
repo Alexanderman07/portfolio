@@ -1,8 +1,7 @@
 # Computer Scientist
 [Resume](https://docs.google.com/document/d/17Uba_uxj0fzT314dGlBxXnhw6kv3OsvqitN8xb3go4U/edit?usp=sharing)
 
-<img src="/assets/img/25231.png" alt= "img" width = "100" height = "100">
-[![img](/assets/img/25231.png)](https://github.com/Alexanderman07)
+<[![img](/assets/img/25231.png)](https://github.com/Alexanderman07) src="/assets/img/25231.png" alt= "img" width = "100" height = "100">
 
 ## About Me
 Hey! Welcome to my portfolio website. My name is Alexander Manjarrez and I am a programmer from California committed to engineering innovative software through methodical problem solving and data analysis. I am goal oriented, a lifelong learner, and value feedback.
