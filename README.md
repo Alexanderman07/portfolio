@@ -40,13 +40,18 @@ Hey! Welcome to my portfolio website. My name is Alexander Manjarrez and I am a 
 - Integrated a joystick and buttons to allow players to navigate through the game
 
 ### Contact Me
-<div id="contact">
-<div id="contact-form">
-            <form action="https://formspree.io/f/mblrbdvv" method="POST">
-            <input type="hidden" name="_subject" value="Contact request from personal website" />
-            <input type="email" name="_replyto" placeholder="Your email" required>
-            <textarea name="message" placeholder="Type your message" required></textarea>
-            <button type="submit">Send</button>
-      </form>
-      </div>
-</div>
+<form
+  action="https://formspree.io/f/mblrbdvv"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
