@@ -1,6 +1,4 @@
 # Computer Scientist
-[![rsm](assets/img/rsm.png)](https://docs.google.com/document/d/17Uba_uxj0fzT314dGlBxXnhw6kv3OsvqitN8xb3go4U/edit?usp=sharing)
-
 [Resume](https://docs.google.com/document/d/17Uba_uxj0fzT314dGlBxXnhw6kv3OsvqitN8xb3go4U/edit?usp=sharing)
 
 [![img](assets/img/25231.png)](https://github.com/Alexanderman07)
