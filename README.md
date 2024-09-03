@@ -38,3 +38,7 @@ Hey! Welcome to my portfolio website. My name is Alexander Manjarrez and I am a 
 - Utilized **C++** to implement the game logic including block movement, mode selection, and sound alerts
 - Created a user-friendly interface for input and display, visualizing the grid and blocks in 2D
 - Integrated a joystick and buttons to allow players to navigate through the game
+
+### Contact Me
+<div id="contact">
+      <h2>Get in Touch</h2>
