@@ -1,7 +1,7 @@
 # Computer Scientist
 [Resume](https://docs.google.com/document/d/17Uba_uxj0fzT314dGlBxXnhw6kv3OsvqitN8xb3go4U/edit?usp=sharing)
 
-<img src=[![img](/assets/img/25231.png)](https://github.com/Alexanderman07) alt= "img" width = "100" height = "100">
+<[![img](/assets/img/25231.png)] src="https://github.com/Alexanderman07" alt= "img" width = "100" height = "100">
 
 [![img](/assets/img/25231.png)](https://github.com/Alexanderman07)
 
