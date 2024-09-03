@@ -1,6 +1,8 @@
 # Computer Scientist
 
-### Education
+#### Technical Skills: 
+
+## Education
 - B.S., Computer Science | The University of California, Riverside (_March 2024_)
 - A.S., Mathematics | Crafton Hills College (_May 2021_)
 - A.S., Physics | Crafton Hills College (_May 2021_)
