@@ -1,11 +1,14 @@
 # Computer Scientist
 
-#### Technical Skills: Java, Azure, Python, C++, HTML, CSS, React, MATLAB, Git
+## About Me
+Hey! Welcome to my portfolio website. My name is Alexander Manjarrez and I am a programmer from California committed to engineering innovative software through methodical problem solving and data analysis. I am goal oriented, a lifelong learner, and value feedback.
 
 ## Education
 - B.S., Computer Science | The University of California, Riverside (_March 2024_)
 - A.S., Mathematics | Crafton Hills College (_May 2021_)
 - A.S., Physics | Crafton Hills College (_May 2021_)
+
+#### Technical Skills: Java, Azure, Python, C++, HTML, CSS, React, MATLAB, Gi
 
 ### Work Experience
 **Software Engineer @ Deka Research and Development (_January 2020 - March 2020_)**
