@@ -1,7 +1,7 @@
 # Computer Scientist
 [Resume](https://docs.google.com/document/d/17Uba_uxj0fzT314dGlBxXnhw6kv3OsvqitN8xb3go4U/edit?usp=sharing)
 
-<a href="https://github.com/Alexanderman07" title="img reshape"><img src="/assets/img/25231.png" width="100" height="100"></a>
+<a href="https://github.com/Alexanderman07" title="img reshape"><img src="/assets/img/25231.png" width="150" height="150"></a>
 
 
 ## About Me
