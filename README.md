@@ -48,7 +48,8 @@ Hey! Welcome to my portfolio website. My name is Alexander Manjarrez and I am a 
 [Github Repo](https://github.com/Alexanderman07/Bank-Account)
 
 - Compiled and implemented a graphical user interface, allowing users to withdraw and deposite money
-- Used **Java** to associate a social security number and a pin number to a user, achieving 100% user identification accuracy.
+- Used **Java** to associate a social security number and a pin number to a user, achieving 100% user identification accuracy
+- Integrated a balance checker to display user-specific balances on the graphical user interface after withdrawals and deposits
 
 ## Contact Me
 <form
