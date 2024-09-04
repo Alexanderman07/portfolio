@@ -13,6 +13,8 @@ Hey! Welcome to my portfolio website. My name is Alexander Manjarrez and I am a 
 - A.S., Mathematics | Crafton Hills College (_May 2021_)
 - A.S., Physics | Crafton Hills College (_May 2021_)
 
+[Coursework](https://docs.google.com/document/d/1z1S8Ks2tUTecOT9Qe0TK4QG4AjiVHeVuXzSyQ1DPcuc/edit?usp=sharing)
+
 #### Technical Skills: Java, Azure, Python, C++, HTML, CSS, React, MATLAB, Git
 
 ## Work Experience
