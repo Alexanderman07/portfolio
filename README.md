@@ -2,7 +2,7 @@
 [![resm](assets/img/resm.png)](https://docs.google.com/document/d/17Uba_uxj0fzT314dGlBxXnhw6kv3OsvqitN8xb3go4U/edit?usp=sharing)     [![img](assets/img/25231.png)](https://github.com/Alexanderman07)     [![linkin](assets/img/linkin.png)](https://www.linkedin.com/in/alexander-manjarrez-70107016a/)
 
 ## About Me
-Hey! Welcome to my portfolio website. My name is Alexander Manjarrez and I am a programmer from California committed to engineering innovative software through methodical problem solving and data analysis. I am goal oriented, a lifelong learner, and value feedback. I recently grauduated from the **University of California, Riverside** after completing my Bachelor of Science degree in Computer Science.
+Hey! 👋 Welcome to my portfolio website. My name is Alexander Manjarrez and I am a programmer from California committed to engineering innovative software through methodical problem solving and data analysis. I am goal oriented, a lifelong learner, and value feedback. I recently grauduated from the **University of California, Riverside** after completing my Bachelor of Science degree in Computer Science.
 
 ## Education
 - B.S., Computer Science | The University of California, Riverside (_March 2024_)
