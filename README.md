@@ -15,7 +15,7 @@ Hey! Welcome to my portfolio website. My name is Alexander Manjarrez and I am a 
 
 #### Technical Skills: Java, Azure, Python, C++, HTML, CSS, React, MATLAB, Git
 
-### Work Experience
+## Work Experience
 **Software Engineer @ Deka Research and Development (_January 2020 - March 2020_)**
 - Collaborated with the project manager and developers as a member of a fast-paced, Agile team to develop image software using MATLAB
 - Designed and implemented image segmentation software in MATLAB, reducing runtime by 2 seconds
@@ -44,7 +44,13 @@ Hey! Welcome to my portfolio website. My name is Alexander Manjarrez and I am a 
 - Created a user-friendly interface for input and display, visualizing the grid and blocks in 2D
 - Integrated a joystick and buttons to allow players to navigate through the game
 
-### Contact Me
+### Bank Account Application
+[Github Repo](https://github.com/Alexanderman07/Bank-Account)
+
+- Compiled and implemented a graphical user interface, allowing users to withdraw and deposite money
+- Used **Java** to associate a social security number and a pin number to a user, achieving 100% user identification accuracy.
+
+## Contact Me
 <form
   action="https://formspree.io/f/mblrbdvv"
   method="POST"
