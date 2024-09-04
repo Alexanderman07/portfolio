@@ -50,7 +50,7 @@ Hey! 👋 Welcome to my portfolio website. My name is Alexander Manjarrez and I 
 - Integrated a balance checker to display user-specific balances on the graphical user interface after withdrawals and deposits
 
 ## Contact Me
-Please reach out to me at <a href="mailto:alexmanjarrez2000@gmail.com">alexmanjarrez2000@gmail.com</a> 
+Please reach out to me at <a href="mailto:alexmanjarrez2000@gmail.com">alexmanjarrez2000@gmail.com</a>\
 or through the form below:
 <form
   action="https://formspree.io/f/mblrbdvv"
