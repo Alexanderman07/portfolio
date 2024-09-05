@@ -17,7 +17,7 @@ Hey! 👋 Welcome to my portfolio website. My name is Alexander Manjarrez and I 
 **Software Engineer @ Deka Research and Development (_January 2020 - March 2020_)**
 - Collaborated with the project manager and developers as a member of a fast-paced, Agile team to develop image software using MATLAB
 - Designed and implemented image segmentation software in MATLAB, reducing runtime by 2 seconds
-- Designed and implemented image segmentation software in MATLAB, reducing runtime by 2 seconds
+- Refactored a racecar image using the imread and imfilter algorithms to measure image quality
 - Utilized Image Segmenter to partition images, achieving 97% accuracy in pixel classification
 
 ## Projects
