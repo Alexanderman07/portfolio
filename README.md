@@ -21,7 +21,7 @@ Hey! 👋 Welcome to my portfolio website. My name is Alexander Manjarrez and I 
 - Utilized Image Segmenter to partition images, achieving 97% accuracy in pixel classification
 
 ## Projects
-### Senior Design Project XV6-Riscv Operating System
+### Senior Design Project Xv6-Riscv Operating System
 [GitHub Repo](https://github.com/Alexanderman07/Senior-Design-Project-xv6-riscv)
 
 - Developed an Operating system and integrated unix utilities, fork, memory allocation, larger files, mmap, and munmap features for flexible user interaction
