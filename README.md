@@ -24,7 +24,7 @@ Hey! 👋 Welcome to my portfolio website. My name is Alexander Manjarrez and I 
 ### Senior Design Project Xv6-Riscv Operating System
 [GitHub Repo](https://github.com/Alexanderman07/Senior-Design-Project-xv6-riscv)
 
-- Developed an Operating system and integrated unix utilities, fork, memory allocation, larger files, mmap, and munmap features for flexible user interaction
+- Developed an **Operating system** and integrated unix utilities, fork, memory allocation, larger files, mmap, and munmap features for flexible user interaction
 - Utilized **C** and **Assembly** to implement system calls and algorithms, achieving over 95% code coverage in all user test cases
 
 ### Supreme Purchase Bot
